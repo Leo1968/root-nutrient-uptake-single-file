@@ -2,7 +2,7 @@
 
 A single-file, self-contained interactive web explainer on how plant roots acquire nutrients — and why the popular mental image of "roots foraging through the soil" is wrong.
 
-**Live preview:** https://leo1968.github.io/root-nutrient-uptake-single-file/
+**Live preview:** https://leo1968.github.io/Root-nutrient-uptake/
 
 ## The idea in one sentence
 
@@ -30,8 +30,8 @@ Roots do not actively hunt for nutrients — nutrients are **delivered to the ro
 ## Run it locally
 
 ```bash
-git clone https://github.com/Leo1968/root-nutrient-uptake-single-file.git
-open root-nutrient-uptake-single-file/index.html   # or just double-click it
+git clone https://github.com/Leo1968/Root-nutrient-uptake.git
+open Root-nutrient-uptake/index.html   # or just double-click it
 ```
 
 No server, install, or network connection required.
