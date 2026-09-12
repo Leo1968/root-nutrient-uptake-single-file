@@ -55,4 +55,7 @@ Acknowledgments: **Xiaoyu He**
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Dual-licensed for your convenience:
+
+- **Code** (HTML/CSS/JS): [MIT License](LICENSE)
+- **Content** (article text, illustrations, and embedded media in `index.html` / `en.html`): [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-CC-BY-4.0.md) — free to share and adapt, including commercially, as long as you give appropriate credit.
