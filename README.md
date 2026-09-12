@@ -50,3 +50,7 @@ Compiled from *土壤的复杂性及根系吸收养分的关键* ("The Complexit
 ## Credits
 
 Compiled and built by **FoisonX Lab**.
+
+## License
+
+Released under the [MIT License](LICENSE).
