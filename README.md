@@ -2,7 +2,7 @@
 
 A single-file, self-contained interactive web explainer on how plant roots acquire nutrients — and why the popular mental image of "roots foraging through the soil" is wrong.
 
-**Live preview:** https://leo1968.github.io/Root-nutrient-uptake/
+**Live preview:** https://leo1968.github.io/Root-nutrient-uptake/ ([English](https://leo1968.github.io/Root-nutrient-uptake/en.html) · [中文](https://leo1968.github.io/Root-nutrient-uptake/))
 
 ## The idea in one sentence
 
@@ -45,7 +45,7 @@ Compiled from *土壤的复杂性及根系吸收养分的关键* ("The Complexit
 - Taiz & Zeiger, *Plant Physiology and Development*
 - Geelen et al. (2018), *Plant Empowerment: The Basic Principles*
 
-> Note: the page itself is written in Chinese (zh-CN).
+> Note: the page is available in two languages — Chinese (`index.html`) and English (`en.html`). Both are single-file and fully self-contained.
 
 ## Credits
 
